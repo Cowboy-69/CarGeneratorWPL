@@ -1,0 +1,4 @@
+[submodule "CLEO/CLEO_PLUGINS"]
+	path = CLEO/CLEO_PLUGINS
+	url = https://github.com/Cowboy-69/FileSystemRedux.git
+	branch = master
